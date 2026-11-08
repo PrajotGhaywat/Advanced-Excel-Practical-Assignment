@@ -146,4 +146,12 @@ Through these assignments, I developed practical experience in:
 
 ## 9. Conclusion
 
-This project represents practical work undertaken to strengthen my
+This project represents practical work undertaken to strengthen my Microsoft Excel skills through structured assignments and hands-on exercises.
+
+It demonstrates the progression from fundamental formulas and formatting to data summarisation, lookup functions, data consolidation and VBA automation.
+
+The workbook serves as a reference for the Excel techniques and practical exercises covered throughout the assignment.
+
+Tool: Microsoft Excel
+
+Project Category: Advanced Excel | Data Preparation | Data Analysis | Reporting | VBA Automation
