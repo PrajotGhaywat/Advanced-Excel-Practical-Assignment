@@ -152,6 +152,8 @@ It demonstrates the progression from fundamental formulas and formatting to data
 
 The workbook serves as a reference for the Excel techniques and practical exercises covered throughout the assignment.
 
+---
+
 Tool: Microsoft Excel
 
 Project Category: Advanced Excel | Data Preparation | Data Analysis | Reporting | VBA Automation
